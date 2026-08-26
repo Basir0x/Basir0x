@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Hero Image -->
-<img src="xai-tmp-imgen-a8880d54-e79f-945a-9a4d-afc5a53e0019-b052ae3d.jpg" alt="BasirOx Cyberpunk Logo" width="350" />
+<img src="https://avatars.githubusercontent.com/u/256846002?v=4" alt="BasirOx Cyberpunk Logo" width="350" />
 <br><br>
 
 <!-- Typing SVG (Updated with Neon Cyan color and BasirOx) -->
