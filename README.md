@@ -1,12 +1,7 @@
 <div align="center">
 
-<!-- Hero Image -->
-<img src="https://github.com/Basir0x/Basir0x/blob/main/xai-tmp-imgen-fac47e94-8863-985e-802e-88afbdf4f492-fb36a96a.jpeg" alt="BasirOx Cyberpunk Logo" width="50%" />
-
-<br><br>
-
-<!-- Sequential trace: reveals like Grok's thinking log, upload profile-trace.svg to this repo -->
-<img src="https://github.com/Basir0x/Basir0x/blob/main/profile-trace.svg" alt="Boot trace" width="600" />
+<!-- Hero Image + sequential trace, side by side -->
+<img src="https://github.com/Basir0x/Basir0x/blob/main/xai-tmp-imgen-fac47e94-8863-985e-802e-88afbdf4f492-fb36a96a.jpeg" alt="BasirOx Cyberpunk Logo" width="48%" valign="middle" /><img src="https://github.com/Basir0x/Basir0x/blob/main/profile-trace.svg" alt="Boot trace" width="48%" valign="middle" />
 
 <br><br>
 
