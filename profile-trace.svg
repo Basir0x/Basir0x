@@ -1,14 +1,20 @@
 <svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg">
   <style>
     text { font-family: 'Fira Code','Cascadia Code',Consolas,monospace; }
-    .row { opacity: 0; animation: fadeIn 0.45s ease forwards; }
-    .row1 { animation-delay: 0.1s; }
-    .row2 { animation-delay: 0.9s; }
-    .row3 { animation-delay: 1.7s; }
-    .row4 { animation-delay: 2.5s; }
-    .row5 { animation-delay: 3.3s; }
-    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
-    .cursor { opacity: 0; animation: blink 1s steps(1) infinite; animation-delay: 3.8s; }
+    .row { opacity: 0; animation: cycle 6s ease-in-out infinite; }
+    .row1 { animation-delay: 0s; }
+    .row2 { animation-delay: 0.8s; }
+    .row3 { animation-delay: 1.6s; }
+    .row4 { animation-delay: 2.4s; }
+    .row5 { animation-delay: 3.2s; }
+    @keyframes cycle {
+      0%   { opacity: 0; }
+      8%   { opacity: 1; }
+      70%  { opacity: 1; }
+      85%  { opacity: 0; }
+      100% { opacity: 0; }
+    }
+    .cursor { opacity: 0; animation: blink 1s steps(1) infinite; animation-delay: 3.6s; }
     @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
     .dash { stroke-dasharray: 2 5; }
   </style>
