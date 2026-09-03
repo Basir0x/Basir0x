@@ -1,9 +1,9 @@
 <div align="center">
-
 <!-- Hero Image + sequential trace, side by side -->
-<svg src="https://github.com/Basir0x/Basir0x/blob/main/terminal.svg" alt"terminal" width"48%" valign="right" /> <img src="https://github.com/Basir0x/Basir0x/blob/main/profile-trace.svg" alt="Boot trace" width="48%" valign="top" />
-
+<img src="terminal.svg" alt="terminal" width="48%" />
+<img src="profile-trace.svg" alt="Boot trace" width="48%" />
 <br><br>
+</div>
 
 <!-- Typing SVG (Updated with Neon Cyan color and BasirOx) -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=BasirOx;WEBSITE:+WWW.DEVXSEC.com;Web+Developer+%26+Security+Enthusiast;Building+the+Future+of+Secure+Web&background=0d1117" alt="Typing SVG" />
