@@ -2,7 +2,8 @@
 <!-- Hero Image + sequential trace, side by side -->
 <img src="terminal.svg" alt="terminal" width="48%" />
 <img src="profile-trace.svg" alt="Boot trace" width="48%" />
-<br><br>
+
+  <br><br>
 </div>
 
 <!-- Typing SVG (Updated with Neon Cyan color and BasirOx) -->
