@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Image + sequential trace, side by side -->
-<img src="https://github.com/Basir0x/Basir0x/blob/main/profile-trace.svg" alt="Boot trace" width="48%" valign="top" />
+<img src="https://github.com/Basir0x/Basir0x/blob/main/terminal.svg" alt"terminal" width"48%" valign="right"</img> <img src="https://github.com/Basir0x/Basir0x/blob/main/profile-trace.svg" alt="Boot trace" width="48%" valign="top" />
 
 <br><br>
 
