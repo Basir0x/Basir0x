@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Image + sequential trace, side by side -->
-<img src="https://github.com/Basir0x/Basir0x/blob/main/xai-tmp-imgen-fac47e94-8863-985e-802e-88afbdf4f492-fb36a96a.jpeg" alt="BasirOx Cyberpunk Logo" width="48%" valign="top" /><img src="https://github.com/Basir0x/Basir0x/blob/main/profile-trace.svg" alt="Boot trace" width="48%" valign="top" />
+<img src="#" alt="BasirOx Cyberpunk Logo" width="48%" valign="top" /><img src="https://github.com/Basir0x/Basir0x/blob/main/profile-trace.svg" alt="Boot trace" width="48%" valign="top" />
 
 <br><br>
 
