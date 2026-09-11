@@ -13,7 +13,6 @@
 
 <!-- Badges (Updated with Neon Cyan & Purple accents) -->
 <img src="https://img.shields.io/badge/Status-Online-00E5FF?style=for-the-badge&logo=statuspage&logoColor=111111&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Location-%C3%85land%20%7C%20Sweden%20%7C%20Finland-B300FF?style=for-the-badge&logo=googlemaps&logoColor=FFFFFF&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Focus-Secure%20Web%20Dev-00E5FF?style=for-the-badge&logo=shield&logoColor=111111&labelColor=0d1117" />
 <br>
 <img src="https://img.shields.io/badge/Email-basir%40devxsec.com-B300FF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0d1117" />
@@ -27,7 +26,7 @@
 ```sh
 #!/bin/bash
 # Initialize User Profile
-> IT Student • Web Developer • Founder of DEVXSEC
+> IT Student • Web Developer 
 > Building fast, secure & modern digital experiences for small businesses.
 > Specializing in Next.js, security-aware development, and AI-powered tools.
 echo "System Secure. Ready to build."
