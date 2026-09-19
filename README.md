@@ -12,9 +12,6 @@
 <br><br>
 
 <!-- Badges (Updated with Neon Cyan & Purple accents) -->
-<img src="https://img.shields.io/badge/Status-Online-00E5FF?style=for-the-badge&logo=statuspage&logoColor=111111&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Cyber-Security-00E5FF?style=for-the-badge&logo=shield&logoColor=111111&labelColor=0d1117" />
-<br>
 <img src="https://img.shields.io/badge/Email-basir%40devxsec.com-B300FF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=0d1117" />
 
 </div>
